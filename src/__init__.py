@@ -1,3 +1,1 @@
-from conjugator.conjugate_de import conjugation
-
-xyz = conjugation('essen', PRESENT, 1, SINGULAR)
+from conjugator import conjugate_de, translator
